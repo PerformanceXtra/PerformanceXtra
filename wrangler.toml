@@ -13,7 +13,7 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "performancextra"
-database_id = "a1c23e94-460d-482d-8c2b-d1b93375d9ce"
+database_id = "90cc3135-09ba-4c05-95f6-119cad56b4da"
 
 # CMS media library (images uploaded by super admins, served at /media/*).
 [[r2_buckets]]
